@@ -1,0 +1,12 @@
+.container1{
+    /* display: flex; */
+    background-color:black;
+    color: white;
+    border-radius: 20px;
+}
+.img2{
+    margin: auto;
+    border-radius: 50px;
+    border: solid;
+}
+
